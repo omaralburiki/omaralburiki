@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**omaralburiki/omaralburiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Systems & Digital Operations Lead specializing in ERP, e-commerce, system integration, and AI-driven operational insights.
 
-Here are some ideas to get you started:
+I focus on transforming business operations into system-driven environments by aligning ERP systems, digital platforms, and operational workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Work On
+- ERP Implementation  
+- E-commerce Operations  
+- System Integration  
+- Business Process Optimization  
+- AI-driven Operational Analysis  
+
+---
+
+## 📂 Featured Projects
+- ERP Transformation Case Study  
+- E-commerce Platform Implementation  
+- AI-Driven Business Systems Optimization  
+
+---
+
+## 🚀 Focus Areas
+- Improving order flow and fulfillment  
+- Enhancing inventory accuracy and control  
+- Aligning finance with operations  
+- Optimizing digital operations and customer experience  
+
+---
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/omar-alburiki/)
