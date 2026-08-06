@@ -88,7 +88,7 @@ Inventory Governance · Credit Control · Returns Governance · Business Process
 ## Certifications
 
 **Active Certification**
-- Project Management Professional (PMP) — Project Management Institute (PMI), 2026
+- Project Management Professional (PMP) Project Management Institute (PMI), 2026
 
 **Professional Training** 
 - ITIL 4 Foundation Course (2023)
