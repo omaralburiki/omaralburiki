@@ -12,7 +12,7 @@ Business Systems Analyst with more than six years of experience delivering ERP i
 
 Experienced in analyzing business operations, gathering and documenting requirements, designing business rules, and coordinating ERP implementation activities from initial readiness diagnostics through Go-Live and Hypercare. Also owned the business-side design of a vendor-built B2B e-commerce platform serving 500+ B2B customers, covering order lifecycle, pricing, and delivery rules. Work spans both established multi-branch operations and greenfield ERP planning for newly established organizations.
 
-This includes delivering two independently commissioned ERP readiness assessments across two different industries — FMCG and Construction/Transportation — reflecting a repeatable diagnostic methodology rather than a one-time engagement.
+This includes delivering two independently commissioned ERP readiness assessments across two different industries FMCG and Construction/Transportation reflecting a repeatable diagnostic methodology rather than a one-time engagement.
 
 ---
 
@@ -42,7 +42,7 @@ This includes delivering two independently commissioned ERP readiness assessment
 
 ## Professional Experience
 
-My career has progressed from operational readiness and diagnostic work into full ERP delivery and digital platform implementation. I began as a Business Systems Coordinator, conducting inventory gap analysis and ERP readiness assessment across a multi-branch FMCG operation. That work fed directly into a Business Systems Analyst role, where I supported and coordinated the business-side ERP implementation — including designing the company-wide business rules the prior system lacked. Concurrently, I owned the business-side design of a B2B e-commerce platform, covering its order lifecycle, pricing model, and delivery rules. I currently apply the same readiness-assessment discipline in a new sector, representing the business side of an ERP readiness evaluation for a general contracting and transportation company.
+My career has progressed from operational readiness and diagnostic work into full ERP delivery and digital platform implementation. I began as a Business Systems Coordinator, conducting inventory gap analysis and ERP readiness assessment across a multi-branch FMCG operation. That work fed directly into a Business Systems Analyst role, where I supported and coordinated the business-side ERP implementation including designing the company-wide business rules the prior system lacked. Concurrently, I owned the business-side design of a B2B e-commerce platform, covering its order lifecycle, pricing model, and delivery rules. I currently apply the same readiness-assessment discipline in a new sector, representing the business side of an ERP readiness evaluation for a general contracting and transportation company.
 
 ---
 
@@ -57,7 +57,7 @@ Business-side delivery of a full ERP transformation across seven branches and 15
 **Repository:** [https://github.com/omaralburiki/Multi-Branch-ERP-Implementation.git]
 
 ### P3 — B2B E-commerce Implementation
-Business-side design of a vendor-built B2B e-commerce platform integrated with the live ERP, HyperPay, and SMS — covering order lifecycle, five-tier pricing, and regional delivery rules, supporting more than 500 B2B customers.
+Business-side design of a vendor-built B2B e-commerce platform integrated with the live ERP, HyperPay, and SMS covering order lifecycle, five-tier pricing, and regional delivery rules, supporting more than 500 B2B customers.
 **Repository:** [https://github.com/omaralburiki/B2B-E-commerce-ERP-Integration.git]
 
 ### P4 — ERP Readiness Assessment — Construction & Transportation
@@ -90,7 +90,7 @@ Inventory Governance · Credit Control · Returns Governance · Business Process
 **Active Certification**
 - Project Management Professional (PMP) — Project Management Institute (PMI), 2026
 
-**Professional Training** *(completed, not certifications)*
+**Professional Training** 
 - ITIL 4 Foundation Course (2023)
 - PMI Agile Certified Practitioner (PMI-ACP) Course (2023)
 
