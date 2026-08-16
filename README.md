@@ -9,7 +9,7 @@ Bridging business operations, ERP systems, and digital commerce through structur
 
 ## About Me
 
-Business Systems Analyst with over eight years of professional experience, including close to six years in one continuous role delivering ERP readiness, ERP implementation, and B2B digital commerce work for a multi-branch FMCG operation, followed by an independent ERP readiness assessment for a newly established construction and transportation company.
+Business Systems Analyst with over 8 years of professional experience, including close to 6 years in one continuous role delivering ERP readiness, ERP implementation, and B2B digital commerce work for a multi-branch FMCG operation, followed by an independent ERP readiness assessment for a newly established construction and transportation company.
 
 Experienced in analyzing business operations, gathering and documenting requirements, designing business rules, and coordinating ERP implementation activities, from initial readiness diagnostics through Go-Live and Hypercare. Also owned the business-side design of a vendor-built B2B e-commerce platform serving 500+ B2B customers, covering order lifecycle, pricing, and delivery rules, built deliberately on top of a live ERP that served as its single source of truth for stock and pricing.
 
@@ -45,7 +45,7 @@ This includes delivering two independently commissioned ERP readiness assessment
 
 My career has progressed from operational diagnostics into full ERP delivery and digital platform implementation, then into independent readiness assessment work in a new industry.
 
-I spent close to six years in one continuous Business Systems Analyst role at a multi-branch FMCG operation. It began with an inventory gap analysis and ERP readiness assessment across seven branches, which built the business case for replacing the company's legacy system. That diagnostic work fed directly into an ERP implementation project, where I coordinated the business side of the rollout and designed the company-wide business rules the prior system lacked, covering credit control, stock reservation, and returns governance. Once that ERP was live and stable, I owned the business-side design of a B2B e-commerce platform built on top of it, using the ERP as the platform's single source of truth for stock and pricing, covering order lifecycle, a five-tier pricing model, and regional delivery rules.
+I spent close to 6 years in one continuous Business Systems Analyst role at a multi-branch FMCG operation. It began with an inventory gap analysis and ERP readiness assessment across seven branches, which built the business case for replacing the company's legacy system. That diagnostic work fed directly into an ERP implementation project, where I coordinated the business side of the rollout and designed the company-wide business rules the prior system lacked, covering credit control, stock reservation, and returns governance. Once that ERP was live and stable, I owned the business-side design of a B2B e-commerce platform built on top of it, using the ERP as the platform's single source of truth for stock and pricing, covering order lifecycle, a five-tier pricing model, and regional delivery rules.
 
 I currently apply the same readiness-assessment discipline in a new sector, representing the business side of an ERP readiness evaluation for a general contracting and transportation company.
 
@@ -112,7 +112,7 @@ Construction · General Contracting · Transportation · FMCG · Wholesale Distr
 
 Representing the business side of an ERP readiness assessment for a newly established general contracting and transportation company, evaluating current operations across eight functional departments, defining ERP scope, and preparing a phased implementation roadmap ahead of ERP selection.
 
-This follows close to six years in a single continuous role at a multi-branch FMCG operation, where I moved from an initial inventory gap analysis through ERP implementation and, once that ERP was live, into the business-side design of a B2B e-commerce platform built on top of it, ultimately serving 500+ B2B customers.
+This follows close to 6 years in a single continuous role at a multi-branch FMCG operation, where I moved from an initial inventory gap analysis through ERP implementation and, once that ERP was live, into the business-side design of a B2B e-commerce platform built on top of it, ultimately serving 500+ B2B customers.
 
 ---
 
