@@ -52,19 +52,19 @@ I currently apply the same readiness-assessment discipline in a new sector, repr
 
 ## Featured Projects
 
-### P1 — Inventory Gap Analysis & ERP Readiness
+### P1: Inventory Gap Analysis & ERP Readiness
 A diagnostic engagement assessing inventory accuracy and operational readiness across 7 branches and 10,000+ SKUs, identifying a 25–35% inventory variance and 5 structural root causes, and establishing the business case for ERP implementation.
 **Repository:** [Link Placeholder]
 
-### P2 — Multi-Branch ERP Implementation
+### P2: Multi-Branch ERP Implementation
 Business-side delivery of a full ERP transformation across 7 branches and 150+ users, including the design of company-wide business rules for credit control, stock reservation, and returns governance that did not exist in the prior system.
 **Repository:** [Link Placeholder]
 
-### P3 — B2B E-commerce Implementation
+### P3: B2B E-commerce Implementation
 Business-side design of a vendor-built B2B e-commerce platform integrated with the live ERP, HyperPay, and SMS, covering order lifecycle, 5-tier pricing, and regional delivery rules, supporting more than 500 B2B customers.
 **Repository:** [Link Placeholder]
 
-### P4 — ERP Readiness Assessment — Construction & Transportation
+### P4: ERP Readiness Assessment, Construction & Transportation
 A completed ERP readiness assessment across 8 functional departments for a newly established general contracting and transportation company, producing a BRD, gap analysis, and phased implementation roadmap.
 **Repository:** [Link Placeholder]
 
@@ -92,7 +92,7 @@ Inventory Governance · Credit Control · Returns Governance · Business Process
 ## Certifications
 
 **Active Certifications**
-- Project Management Professional (PMP) — Project Management Institute (PMI), 2026
+- Project Management Professional (PMP), Project Management Institute (PMI), 2026
 - Saudi Council of Engineers (SCE) Membership, Specialist, Computer Science, active since December 2020
 
 **Professional Training** *(completed, not certifications)*
