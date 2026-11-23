@@ -14,6 +14,8 @@ From 2023 to 2025, at the same company, the B2B e-commerce platform became my ma
 
 Since November 2025 I have been a Senior ERP Business Analyst at a newly established construction and transportation company. I assessed ERP readiness across 8 departments and produced the BRD, the process maps, and a phased implementation roadmap. I am now supporting vendor evaluation.
 
+On the commercial side, I designed the B2B pricing and credit tiers, joined product walkthroughs for new business accounts with the commercial team, and reviewed commercial terms in contracts before signature. I am looking to move into business development, pre-sales, and solutions consulting, where an ERP and B2B background helps in understanding what a customer needs and proposing the right solution.
+
 ## Projects
 
 | Project | My role | Period | What it covers |
