@@ -13,10 +13,12 @@ I work where business operations meet the systems that run them. I analyze how a
 ## How the work connects
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/work-connects-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/work-connects-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-connects-dark.svg">
-  <img alt="How the work connects. FMCG retailer and wholesaler, 2019 to 2025: 1 Inventory Gap Analysis (diagnose), whose findings fed the requirements of 2 Multi-Branch ERP (implement), which became the source of stock and prices for 3 B2B E-commerce (extend). Construction and transportation, 2025 to now: 4 ERP Readiness Assessment (diagnose), the same diagnostic method in a new industry; vendor evaluation in progress." src="assets/work-connects-light.svg" width="100%">
+  <img alt="How the work connects. FMCG retailer and wholesaler, 2019 to 2025: 1 Inventory Gap Analysis (diagnose), whose findings fed the requirements of 2 Multi-Branch ERP (implement), which became the source of stock and prices for 3 B2B E-commerce (extend). Construction and transportation, 2025 to now: 4 ERP Readiness Assessment (diagnose), the same diagnostic method in a new industry; vendor evaluation in progress." src="assets/work-connects-light.svg#gh-light-mode-only" width="100%">
+</picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/work-connects-mobile-dark.svg">
+  <img alt="How the work connects. FMCG retailer and wholesaler, 2019 to 2025: 1 Inventory Gap Analysis (diagnose), whose findings fed the requirements of 2 Multi-Branch ERP (implement), which became the source of stock and prices for 3 B2B E-commerce (extend). Construction and transportation, 2025 to now: 4 ERP Readiness Assessment (diagnose), the same diagnostic method in a new industry; vendor evaluation in progress." src="assets/work-connects-dark.svg#gh-dark-mode-only" width="100%">
 </picture>
 
 ## Projects
