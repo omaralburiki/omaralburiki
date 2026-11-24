@@ -12,29 +12,12 @@ I work where business operations meet the systems that run them. I analyze how a
 
 ## How the work connects
 
-```mermaid
-%%{init: {"flowchart": {"nodeSpacing": 30, "rankSpacing": 45, "padding": 12}}}%%
-flowchart TB
-    subgraph D["FMCG retailer and wholesaler · 2019 to 2025"]
-        direction LR
-        P1["<b>1. Inventory Gap Analysis</b><br/>Diagnosis, business case"]
-        P2["<b>2. Multi-Branch ERP</b><br/>Implementation"]
-        P3["<b>3. B2B E-commerce</b><br/>Company-side project lead"]
-        P1 -->|findings fed<br/>the requirements| P2
-        P2 -->|ERP became the source<br/>of stock and prices| P3
-    end
-    subgraph C["Construction and transportation company · 2025 to now"]
-        direction LR
-        P4["<b>4. ERP Readiness Assessment</b><br/>Diagnosis, requirements, roadmap"]
-    end
-    D -. same diagnostic method,<br/>new industry .-> C
-    classDef fmcg fill:#DDEBFF,stroke:#0969DA,stroke-width:1.5px,color:#0B1F33
-    classDef cons fill:#DCF5E3,stroke:#1A7F37,stroke-width:1.5px,color:#0B2414
-    class P1,P2,P3 fmcg
-    class P4 cons
-    style D fill:transparent,stroke:#0969DA,stroke-width:1px,stroke-dasharray:4 3
-    style C fill:transparent,stroke:#1A7F37,stroke-width:1px,stroke-dasharray:4 3
-```
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/work-connects-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/work-connects-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-connects-dark.svg">
+  <img alt="How the work connects. FMCG retailer and wholesaler, 2019 to 2025: 1 Inventory Gap Analysis (diagnose), whose findings fed the requirements of 2 Multi-Branch ERP (implement), which became the source of stock and prices for 3 B2B E-commerce (extend). Construction and transportation, 2025 to now: 4 ERP Readiness Assessment (diagnose), the same diagnostic method in a new industry; vendor evaluation in progress." src="assets/work-connects-light.svg" width="100%">
+</picture>
 
 ## Projects
 
