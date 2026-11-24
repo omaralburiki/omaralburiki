@@ -27,7 +27,7 @@ flowchart TB
         direction LR
         P4["<b>4. ERP Readiness Assessment</b><br/>Diagnosis, requirements, roadmap"]
     end
-    P1 -. same diagnostic method,<br/>new industry .-> P4
+    D -. same diagnostic method,<br/>new industry .-> C
     classDef fmcg fill:#DDEBFF,stroke:#0969DA,stroke-width:1.5px,color:#0B1F33
     classDef cons fill:#DCF5E3,stroke:#1A7F37,stroke-width:1.5px,color:#0B2414
     class P1,P2,P3 fmcg
