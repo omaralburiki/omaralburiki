@@ -1,45 +1,106 @@
-# Omar Ahmed Al-Buriki
+# Omar Ahmed Omar Alburiki
 
-**Senior ERP Business Analyst** · ERP implementation · B2B e-commerce · Riyadh, Saudi Arabia
+**Business Systems & Digital Solutions** · Business Analysis & Project Management · Riyadh, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--alburiki-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alburiki)
 [![Email](https://img.shields.io/badge/Email-omar__alburiki%40yahoo.com-555555?style=flat)](mailto:omar_alburiki@yahoo.com)
 ![PMP](https://img.shields.io/badge/PMP-PMI%202026-2E7D32?style=flat)
 
-I work on the business side of ERP and e-commerce projects: requirements, business rules, testing, and getting new systems adopted.
+I work where business operations meet the systems that run them. I analyze how a business actually works, design the processes and digital solutions it needs, and manage delivery with technology vendors through testing, go-live, and adoption. My work covers ERP readiness and implementation, B2B e-commerce, process improvement, and the move from manual, spreadsheet-based work to integrated systems.
 
-I have 8+ years of experience. From 2019 to 2022 I was an ERP Business Analyst at a multi-branch FMCG retailer and wholesaler. I started with an inventory gap analysis across 7 branches that built the case for a new ERP. Then I gathered requirements, wrote the BRD, designed the business rules, ran UAT, trained users, and supported go-live and stabilization for 150+ users.
+8+ years of experience, 6+ in ERP and business systems, across distribution, retail, construction, and transportation. Each project below links to its case study and, where I can share one, a representative BRD.
 
-From 2023 to 2025, at the same company, the B2B e-commerce platform became my main responsibility. An external vendor built it on top of the live ERP, and I designed the business side: the order lifecycle, a 5-tier pricing model tied to credit terms, and regional delivery rules. I prioritized the release backlog with the vendor, tested the platform myself, and took part in the launch decision.
+## How the work connects
 
-Since November 2025 I have been a Senior ERP Business Analyst at a newly established construction and transportation company. I assessed ERP readiness across 8 departments and produced the BRD, the process maps, and a phased implementation roadmap. I am now supporting vendor evaluation.
-
-On the commercial side, I designed the B2B pricing and credit tiers, joined product walkthroughs for new business accounts with the commercial team, and reviewed commercial terms in contracts before signature. I am looking to move into business development, pre-sales, and solutions consulting, where an ERP and B2B background helps in understanding what a customer needs and proposing the right solution.
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 30, "rankSpacing": 45, "padding": 12}}}%%
+flowchart TB
+    subgraph D["FMCG retailer and wholesaler · 2019 to 2025"]
+        direction LR
+        P1["<b>1. Inventory Gap Analysis</b><br/>Diagnosis, business case"]
+        P2["<b>2. Multi-Branch ERP</b><br/>Implementation"]
+        P3["<b>3. B2B E-commerce</b><br/>Company-side project lead"]
+        P1 -->|findings fed<br/>the requirements| P2
+        P2 -->|ERP became the source<br/>of stock and prices| P3
+    end
+    subgraph C["Construction and transportation company · 2025 to now"]
+        direction LR
+        P4["<b>4. ERP Readiness Assessment</b><br/>Diagnosis, requirements, roadmap"]
+    end
+    P1 -. same diagnostic method,<br/>new industry .-> P4
+    classDef fmcg fill:#DDEBFF,stroke:#0969DA,stroke-width:1.5px,color:#0B1F33
+    classDef cons fill:#DCF5E3,stroke:#1A7F37,stroke-width:1.5px,color:#0B2414
+    class P1,P2,P3 fmcg
+    class P4 cons
+    style D fill:transparent,stroke:#0969DA,stroke-width:1px,stroke-dasharray:4 3
+    style C fill:transparent,stroke:#1A7F37,stroke-width:1px,stroke-dasharray:4 3
+```
 
 ## Projects
 
-| Project | My role | Period | What it covers |
-|---|---|---|---|
-| [Inventory Gap Analysis & ERP Readiness](https://github.com/omaralburiki/Inventory-Gap-Analysis-ERP-Readiness) | ERP Business Analyst | Nov 2019 – Apr 2020 | Part 1 of the ERP work: 8-dimension gap analysis, 5 root causes, ERP business case |
-| [Multi-Branch ERP Implementation](https://github.com/omaralburiki/Multi-Branch-ERP-Implementation) | ERP Business Analyst | Jun 2020 – Aug 2021 | Part 2: BRD, business rules, UAT, user training, go-live, hypercare |
-| [B2B E-commerce Implementation](https://github.com/omaralburiki/B2B-E-commerce-Implementation) | E-commerce Solutions Analyst | Feb 2023 – May 2025 | Platform requirements, pricing and credit tiers, delivery rules, integrations, backlog, UAT |
-| [ERP Readiness Assessment: Construction & Transportation](https://github.com/omaralburiki/ERP-Readiness-Assessment-Construction-Transportation) | Senior ERP Business Analyst | Nov 2025 – Present | 8-department readiness assessment, BRD, functional requirements, phased scope, roadmap |
+### FMCG retailer and wholesaler, 2019 to 2025
 
-Each repository has a full case study, and the last three include a representative BRD.
+#### 1. [Inventory Gap Analysis & ERP Readiness](https://github.com/omaralburiki/Inventory-Gap-Analysis-ERP-Readiness)
+**ERP Business Analyst** · Nov 2019 – Apr 2020 · Part 1 of the ERP work
 
-## What I work with
+Measured inventory accuracy across 7 branches and 10,000+ SKUs, traced the gaps to their root causes, and built the business case that supported the decision to implement an ERP.
 
-**Analysis:** requirements gathering, BRD and functional requirements, AS-IS and TO-BE process mapping, gap analysis, root cause analysis (5 Whys)
+[Case study](https://github.com/omaralburiki/Inventory-Gap-Analysis-ERP-Readiness/blob/main/docs/Case-Study.md) · [Root cause analysis](https://github.com/omaralburiki/Inventory-Gap-Analysis-ERP-Readiness/blob/main/docs/Case-Study.md#from-8-gaps-to-5-root-causes)
 
-**ERP delivery:** readiness assessment, business rules design, UAT coordination, master data migration, user training, go-live and hypercare support
+#### 2. [Multi-Branch ERP Implementation](https://github.com/omaralburiki/Multi-Branch-ERP-Implementation)
+**ERP Business Analyst** · Jun 2020 – Aug 2021 · Part 2 of the ERP work
 
-**E-commerce and vendors:** B2B platform requirements, pricing and credit rules, integration requirements (ERP, payment gateway, SMS, logistics), vendor coordination, pre-signature contract review, Jira backlog prioritization
+Shared the business-side project management of a 7-module ERP rollout to 7 branches and 150+ users. Defined the requirements and BRD, designed company-wide business rules, and worked through UAT, user training, go-live, and stabilization.
 
-**Industries:** FMCG and wholesale distribution, retail, B2B commerce, construction, transportation
+[Case study](https://github.com/omaralburiki/Multi-Branch-ERP-Implementation/blob/main/docs/Case-Study.md) · [BRD](https://github.com/omaralburiki/Multi-Branch-ERP-Implementation/blob/main/docs/BRD.md) · [Business rules](https://github.com/omaralburiki/Multi-Branch-ERP-Implementation#the-rules)
 
-## Certifications
+#### 3. [B2B E-commerce Implementation](https://github.com/omaralburiki/B2B-E-commerce-Implementation)
+**E-commerce Solutions Lead** · Feb 2023 – May 2025 · Built on the ERP from project 2
 
-- Project Management Professional (PMP), PMI, 2026
-- Saudi Council of Engineers membership, Specialist, Computer Science
+Led the project on the company side for a vendor-built B2B e-commerce platform that supported 500+ business customers. Owned release planning, vendor and change control, and the commercial design: customer access, pricing and credit tiers, delivery rules, and integrations.
 
-Training completed: ITIL 4 Foundation course (2023), PMI-ACP course (2023).
+[Case study](https://github.com/omaralburiki/B2B-E-commerce-Implementation/blob/main/docs/Case-Study.md) · [Requirements specification](https://github.com/omaralburiki/B2B-E-commerce-Implementation/blob/main/docs/BRD.md) · [How the project was led](https://github.com/omaralburiki/B2B-E-commerce-Implementation/blob/main/docs/Case-Study.md#leading-the-project)
+
+### Construction and transportation company, 2025 to now
+
+#### 4. [ERP Readiness Assessment: Construction & Transportation](https://github.com/omaralburiki/ERP-Readiness-Assessment-Construction-Transportation)
+**Senior ERP Business Analyst** · Nov 2025 – Present · My current employer
+
+Led the business side of an ERP readiness assessment across 8 departments, defined the future-state requirements in a BRD, and recommended a three-phase implementation roadmap. Now supporting vendor evaluation.
+
+[Case study](https://github.com/omaralburiki/ERP-Readiness-Assessment-Construction-Transportation/blob/main/docs/Case-Study.md) · [BRD](https://github.com/omaralburiki/ERP-Readiness-Assessment-Construction-Transportation/blob/main/docs/BRD.md) · [TO-BE process](https://github.com/omaralburiki/ERP-Readiness-Assessment-Construction-Transportation/blob/main/docs/Case-Study.md#a-representative-to-be-process-procurement) · [Roadmap](https://github.com/omaralburiki/ERP-Readiness-Assessment-Construction-Transportation#recommended-scope)
+
+## How I work
+
+| Stage | What I do | Where to see it |
+|---|---|---|
+| Diagnosis | Readiness and gap assessments before a system is chosen | Projects 1 and 4 |
+| Design | Requirements, BRDs, business rules, and solution design | Projects 2 and 3 |
+| Decision | Release scope and priorities, phased ERP scope | Projects 3 and 4 |
+| Delivery | Vendor direction, timelines, change requests, milestone payments, UAT and hands-on testing | Projects 2 and 3 |
+| Adoption | Training, hypercare, stabilization, and handover to the departments that own the process | Project 2 |
+
+The commercial side of these systems is part of the work too: pricing and credit tiers, onboarding new business accounts with the commercial team, and reviewing scope and commercial terms in contracts before signature. That experience carries over to any role where a customer's operating problem has to be matched to the right solution.
+
+## Skills
+
+| Business Analysis & Process Improvement | Project Management & Delivery | Business Systems & Digital Solutions |
+|---|---|---|
+| Stakeholder management and workshops | Release scope and prioritization | ERP readiness and implementation |
+| BRD and functional requirements | Schedule, risk, and issue tracking | Business rules design |
+| AS-IS and TO-BE process design | Vendor management | B2B e-commerce solution design |
+| Gap analysis and root cause analysis | Change requests and milestone payment review | Commercial requirements: pricing, credit, delivery |
+| UAT and acceptance testing | Pre-signature contract review | Integration requirements: ERP, payments, SMS, logistics |
+| Process stabilization and handover | Status reporting, Jira | Shopify B2C stores and ERP integration (2019) |
+
+Industries: FMCG and wholesale distribution, retail, B2B commerce, construction, transportation.
+
+## Education & Professional Credentials
+
+| Credential | Institution | Year |
+|---|---|---|
+| Project Management Professional (PMP) | PMI | 2026 |
+| Membership, Specialist, Computer Science | Saudi Council of Engineers | Since 2020 |
+| BSc Computer Science | Osmania University, India | 2017 |
+
+Training: ITIL 4 Foundation course (2023), PMI-ACP course (2023).
